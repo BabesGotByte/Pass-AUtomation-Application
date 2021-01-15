@@ -1,4 +1,4 @@
-# Outpass-Automation-System-Using-Firebase-and-Facial-Recognition
+# Pass-Automation-Application-Using-Firebase-and-Facial-Recognition
 
 [![Generic badge](https://img.shields.io/badge/OUTPASS-AUTOMATION-BLUE.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/FACE-RECOGNITION-<BLUE>.svg)](https://shields.io/)
